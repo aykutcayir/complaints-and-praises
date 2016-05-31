@@ -2,7 +2,9 @@
 
 ### Links
 - [Paper](ComplaintPraiseStudy.pdf)
-- [Poster PDF]
+- [Poster PDF](poster-wassa2016.pdf)
+- Dataset (coming soon!)
+
 
 
 ```bib
